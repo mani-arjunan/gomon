@@ -11,3 +11,8 @@ now go to any of your golang repo and run `gomon`.
 
 > **NOTE:** For now, this tool only works for a single file `main.go`, it doesn't track any other
 deps across your repos.
+
+## Demo
+
+<video src="./demo/gomon_demo.mov" controls width="800"></video>
+
