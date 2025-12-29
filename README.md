@@ -14,5 +14,6 @@ deps across your repos.
 
 ## Demo
 
-<video src="./demo/gomon_demo.mov" controls width="800"></video>
+[Watch demo](./demo/gomon_demo.mov)
+
 
