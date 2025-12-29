@@ -14,6 +14,6 @@ deps across your repos.
 
 ## Demo
 
-[Watch demo](./demo/gomon_demo.mov)
+![Gomon demo](./demo/demo.gif)
 
 
